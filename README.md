@@ -27,13 +27,3 @@ SQL kısmını da SQL isimli dosyadan ulaşabilirsiniz. Aynı Veritabanını ger
 
 
 Veri tabanını SQL server'a ekledikten sonra projeyi başarılı bir şekilde çalıştırabilirsiniz.
-
-Sorunuz ya da öneriniz olursa bana mail veya linkedln yolu ile ulaşabilirsiniz.
-
-Mail: gdk.muharrem@gmail.com
-
-Linkenln : https://www.linkedin.com/in/muharrem-gedik-0094331b6/
-
-İyi günler dilerim,
-
-Muharrem Gedik.
